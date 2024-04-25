@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: fantasy;
+    padding: 50px;
+}
+
+header{
+    display: flex;
+
+    justify-content: center;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.Bankkort{
+    background-image: linear-gradient(to right, blue, darkblue);
+    border: 10px;
+    border-style: solid;
+    width: 30vw;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 20px;
+    height: 40vh;
+    font-family: monospace;
+    font-size: larger;
+}
+
+#blackbar{
+
+    display: flex;
+
+    flex-direction: column;
+
+
+
+    border: 10px;
+    height: 5vh;
+    width: 63vh;
+    background-color: black;
+    border-style: solid;
+    color: blue;
+    border-color: black;
+    
+
+}
+
+#whitebar{
+
+    display: flex;
+
+    border: 10px;
+    height: 1vh;
+    width: 45vh;
+    background-color: white;
+    border-color: white;
+    color: white;
+    border-style: solid;
+    
+}
+
+
+p{
+    padding: 8px;
+    color: silver;
+    
+}

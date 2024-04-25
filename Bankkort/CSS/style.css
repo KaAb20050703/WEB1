@@ -1,0 +1,45 @@
+header{
+    display: flex;
+
+    justify-content: center;
+
+    font-family: fantasy;
+
+    margin: 3%;
+
+}
+
+main{
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: center;
+
+    font-family: fantasy;
+
+    font-size: larger;
+
+    justify-content: space-around;
+
+    margin: 5%;
+}
+
+
+
+a:link {
+    color: black;
+  }
+  
+
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: black;
+  }
+  
+  a:active {
+    color: black;
+  }
